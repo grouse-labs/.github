@@ -1,4 +1,4 @@
-# Why hello, fellow <𝚌𝚘𝚍𝚎𝚛𝚜/> ![Hello!](profile/assets/donhulieo_hello.png)
+<h2> Why hello, fellow <𝚌𝚘𝚍𝚎𝚛𝚜/> <img src="https://github.com/grouse-labs/.github/blob/main/profile/assets/donhulieo_hello.png?raw=true" width="30px"></h2>
 
 [![Youtube Badge](https://img.shields.io/badge/%40donhulieo-teal?style=flat-square&logo=youtube&logoColor=4ed298&labelColor=16171b&color=4ed298&link=https%3A%2F%2Fwww.youtube.com%2F%40donhulieo)](https://www.youtube.com/@donhulieo)
 [![Email Badge](https://img.shields.io/badge/%40grouse-teal?style=flat-square&logo=gmail&logoColor=4ed298&labelColor=16171b&color=4ed298&link=mailto%3Agrouse%40grouse-labs.com)](mailto:grouse@grouse-labs.com)
