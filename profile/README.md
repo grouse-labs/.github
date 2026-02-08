@@ -8,10 +8,15 @@
 
 > A project run by [DonHulieo](https://github.com/DonHulieo) & [Novamonkey](https://github.com/northernmonkey98), at Grouse Labs we aim to provide the most immersive resources to your server, whilst trying to keep the balance between realism & fun.
 
-## 🌐 Partners
+## 🤝 Partners
 
 - [🦥 Project Sloth](https://github.com/Project-Sloth)
 - [🌮 MrNewbScripts](https://discord.gg/mrnewbscripts)
+- [🚔 OsmFX Mods](https://discord.gg/R8gdEmgRtz)
+
+<!-- ## 🌐 As seen in
+
+- [Ⓜ m-Scripts](https://discord.gg/8cp3UDEeR2) -->
 
 ## 📲 Communities
 
