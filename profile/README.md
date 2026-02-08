@@ -14,9 +14,9 @@
 - [🌮 MrNewbScripts](https://discord.gg/mrnewbscripts)
 - [🚔 OsmFX Mods](https://discord.gg/R8gdEmgRtz)
 
-<!-- ## 🌐 As seen in
+## 🌐 As seen in
 
-- [Ⓜ m-Scripts](https://discord.gg/8cp3UDEeR2) -->
+- [Ⓜ m-Scripts](https://discord.gg/8cp3UDEeR2)
 
 ## 📲 Communities
 
